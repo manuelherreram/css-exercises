@@ -1,0 +1,19 @@
+.odd-number {
+  background-color: rgb(249, 167, 167);
+  font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+.cool{
+  font-size: 24px;
+}
+
+#oneid {
+  color: #0000ff;
+  font-size: 36px;
+}
+
+#otherid {
+  background-color: hsl(126, 89%, 72%);
+  font-size: 24px;
+  font-weight: bold;
+}
