@@ -1,0 +1,15 @@
+.choose1, 
+.choose2 {
+  font-family: Helvetica, 'Times New Roman', sans-serif;
+  font-size: 28px;
+}
+
+.choose1 {
+  background-color: #000000;
+  color: #ffffff;
+}
+
+.choose2 {
+  background-color: hsl(60, 100%, 50%);
+
+}
